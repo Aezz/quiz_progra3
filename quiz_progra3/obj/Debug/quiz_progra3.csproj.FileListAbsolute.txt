@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2015\Projects\quiz_progra3\quiz_progra3\bin\Debug\quiz_progra3.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\quiz_progra3\quiz_progra3\bin\Debug\quiz_progra3.exe
+c:\users\daniel\documents\visual studio 2015\Projects\quiz_progra3\quiz_progra3\bin\Debug\quiz_progra3.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\quiz_progra3\quiz_progra3\obj\Debug\quiz_progra3.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\quiz_progra3\quiz_progra3\obj\Debug\quiz_progra3.exe
+c:\users\daniel\documents\visual studio 2015\Projects\quiz_progra3\quiz_progra3\obj\Debug\quiz_progra3.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\quiz_progra3\quiz_progra3\bin\Debug\quiz_progra3.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\quiz_progra3\quiz_progra3\obj\Debug\quiz_progra3.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\quiz_progra3\quiz_progra3\obj\Debug\quiz_progra3.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\quiz_progra3\quiz_progra3\bin\Debug\quiz_progra3.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\quiz_progra3\quiz_progra3\bin\Debug\quiz_progra3.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\quiz_progra3\quiz_progra3\obj\Debug\quiz_progra3.csprojResolveAssemblyReference.cache
